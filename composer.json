@@ -91,6 +91,9 @@
         },
         "patches": {
             "drupal/core": {
+            },
+            "drupal/site_alert": {
+                "Remove unused MessengerInterface and global t() call": "https://www.drupal.org/files/issues/2020-04-09/site_alert-remove-unused-messagerinterface-and-global-t-function-3126206.patch"
             }
         }
     },
